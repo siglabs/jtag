@@ -1,6 +1,6 @@
 {
   "name": "jtag.ftdi.siglabs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Forked jtag.ftdi package from https://gitlab.com/drom/jtag",
   "main": "index.js",
   "bin": {

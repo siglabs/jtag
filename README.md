@@ -1,4 +1,4 @@
-[![NPM version](https://img.shields.io/npm/v/jtag.ftdi.svg)](https://www.npmjs.org/package/jtag.ftdi.siglabs)
+[![NPM version](https://img.shields.io/npm/v/jtag.ftdi.siglabs.svg)](https://www.npmjs.org/package/jtag.ftdi.siglabs)
 
 JTAG / FTDI related JavaScript library and tools.
 
