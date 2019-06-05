@@ -1,7 +1,7 @@
 {
-  "name": "jtag.ftdi",
-  "version": "0.10.0",
-  "description": "JavaScript JTAG library and tools",
+  "name": "jtag.ftdi.siglabs",
+  "version": "0.0.2",
+  "description": "Forked jtag.ftdi package from https://gitlab.com/drom/jtag",
   "main": "index.js",
   "bin": {
     "svf2ftdi": "bin/svf2ftdi.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/drom/jtag.git"
+    "url": "git+ssh://git@github.com/siglabs/jtag.git"
   },
   "files": [
     "lib",
@@ -24,12 +24,9 @@
     "FTDI",
     "SVF"
   ],
-  "author": "Aliaksei Chapyzhenka",
+  "author": "Siglabs",
   "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/drom/jtag/issues"
-  },
-  "homepage": "https://gitlab.com/drom/jtag#README",
+  "homepage": "https://github.com/siglabs/jtag#README",
   "devDependencies": {
     "@drom/eslint-config": "^0.7.0",
     "browserify": "^16.2.2",
